@@ -1,5 +1,5 @@
 # Tic-Tac-Toe in Verilog
-This is a simple two player Tic-Tac-Toe game made using [Digital Logic Simulator](https://github.com/hneemann/Digital)
+This is a simple two player Tic-Tac-Toe game made using [Digital Logic Simulator](https://github.com/hneemann/Digital) <br>
 This was my project for **Digital Logic Design Course (CS203)**
 
 ### Instructor
